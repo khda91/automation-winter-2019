@@ -10,9 +10,6 @@ import java.util.concurrent.TimeUnit;
 import static java.lang.System.setProperty;
 import static org.testng.Assert.assertEquals;
 
-/**
- * Created by Danila_Morokov on 1/23/2019.
- */
 public class SimpleTest {
 
     @BeforeClass
