@@ -5,7 +5,7 @@
     <test name="Test 1" >
 
         <classes>
-            <class name="lesson2.SimpleTestParallel" />
+            <class name="lesson3.SimpleTestWithPO" />
         </classes>
 
     </test>
